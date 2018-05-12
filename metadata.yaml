@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38738'
     url: http://www.gutenberg.org/2009/agents/38738
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37273#Plaidoyer-de-M.-Freydier-contre-l-introduction-des-cadenas-et-ceintures-de-chastet--pr-c-d--d_
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2011-08-30'
 gutenberg_type: Text

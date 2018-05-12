@@ -1,0 +1,29 @@
+_repo: Plaidoyer-de-M.-Freydier-contre-l-introduction-des-cadenas-et-ceintures-de-chastet--pr-c-d--d__37273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freydier, Monsieur
+    alias: Freydier, M.
+    gutenberg_agent_id: '38738'
+    url: http://www.gutenberg.org/2009/agents/38738
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2011-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37273'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KJ'
+- !lcsh 'Women -- Legal status, laws, etc. -- France'
+- !lcsh 'Chastity belts'
+- !lcsh 'Trials -- France'
+title: Plaidoyer de M. Freydier contre l'introduction des cadenas et ceintures de
+  chasteté, précédé d'une notice historique.
+url: http://www.gutenberg.org/ebooks/37273
